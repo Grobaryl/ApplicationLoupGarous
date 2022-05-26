@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".front.SideCardSelectionFragment">
+
+    <ImageView
+        android:id="@+id/card_select_0"
+        android:layout_width="168dp"
+        android:layout_height="237dp"
+        android:minWidth="75dp"
+        android:minHeight="150dp"
+        android:src="@drawable/dos" />
+
+    <ImageView
+        android:id="@+id/card_select_1"
+        android:layout_width="168dp"
+        android:layout_height="237dp"
+        android:layout_gravity="right"
+        android:minWidth="75dp"
+        android:minHeight="150dp"
+        android:src="@drawable/dos" />
+
+    <ImageView
+        android:id="@+id/card_select_3"
+        android:layout_width="168dp"
+        android:layout_height="237dp"
+        android:layout_gravity="bottom|right"
+        android:minWidth="100dp"
+        android:minHeight="200dp"
+        android:src="@drawable/dos" />
+
+    <ImageView
+        android:id="@+id/card_select_2"
+        android:layout_width="168dp"
+        android:layout_height="237dp"
+        android:layout_gravity="bottom"
+        android:minWidth="75dp"
+        android:minHeight="150dp"
+        android:src="@drawable/dos" />
+
+</FrameLayout>

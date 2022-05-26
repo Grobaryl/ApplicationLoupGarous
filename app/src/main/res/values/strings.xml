@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Application de Loup Garous</string>
+    <string name="play_new_game">Jouer</string>
+    <string name="options">Options</string>
+    <string name="player1">Joueur 1 :</string>
+    <string name="player2">Joueur 2 :</string>
+    <string name="player3">Joueur 3 :</string>
+    <string name="player4">Joueur 4 :</string>
+    <string name="player5">Joueur 5 :</string>
+    <string name="validate">Valider</string>
+    <string name="ok">OK</string>
+    <string name="role_seer_name">Voyante</string>
+    <string name="role_seer_description">La voyante est un rôle villageois. La nuit, elle peut regarder des cartes.</string>
+    <string name="role_meta_name">Metamorphe</string>
+    <string name="role_meta_description">Le métamorphe est un rôle dans son propre camp. Il peut voler le rôle d\'une carte non utilisée et peut tuer un joueur pendant la nuit.</string>
+    <string name="role_bouc_name">Bouc</string>
+    <string name="role_bouc_description">Le bouc est un role neutre. Il est soit dans le camp du métamorphe, soit dans celui de l\'ange de la mort, le cas échéant. Il doit mourir pour faire gagner son allié</string>
+    <string name="role_chou_name">Chouette</string>
+    <string name="role_chou_description">La chouette est un role villageois. La nuit, elle se réveille en meme temps que le hibou. Si elle est seule, elle peut regarder une carte non utilisée.</string>
+    <string name="role_hibu_name">Hibou</string>
+    <string name="role_hibu_description">Le hibou est un rôle villageois. La nuit, il se réveille en meme temps que la chouette. Si il est seul, il pourra également espionner le métamorphe pendant son tour.</string>
+    <string name="role_anga_name">Ange Gardien</string>
+    <string name="role_anga_description">L\'ange gardien est un rôle villageos.La nuit, il se réveille et protège un joueur. Lui et le joueur protégé ne peuvent mourir pendant la nuit.</string>
+    <string name="role_anmo_name">Ange Déchu</string>
+    <string name="role_anmo_description">L\'ange déchu est un rôle dans son propre camp. La nuit, il se reveille et choisit une cible. Il gagne si ce joueur meurt du vote.</string>
+    <string name="role_jokr_name">Joker</string>
+    <string name="role_jokr_description">Le joker est un rôle villageois. La nuit, il peut échanger les cartes de deux joueurs.</string>
+    <string name="role_mort_name">La Mort</string>
+    <string name="role_mort_description">La mort est un rôle villageois. Le jour, elle peut communier avec le  joueur mort, afin qu\'il puisse lui transmettre des informations. Si la mort a été tuée, elle peut alors tuer un autre joueur.</string>
+    <string name="pass_to_player">"Passez l'appareil à "</string>
+    <string name="turnof">Tour de </string>
+    <string name="mort_turn">Tour de la mort</string>
+    <string name="meta_turn">Tour du métamorphe</string>
+    <string name="chou_turn">Tour de la chouette</string>
+    <string name="jokr_turn">Tour du Joker</string>
+    <string name="anga_turn">Tour de l\'ange gardien</string>
+    <string name="ande_turn">Tour de l\'ange déchu</string>
+    <string name="seer_turn">Tour de la voyante</string>
+    <string name="result">Jour:</string>
+    <string name="elapsed_time">Temps écoulé:</string>
+    <string name="dead_label">Joueur mort :</string>
+    <string name="mort_call">Appeler la mort</string>
+    <string name="start_vote">Voter</string>
+    <string name="vote_of">Vote de :    </string>
+    <string name="none">Aucun</string>
+    <string name="winners">Gagnants</string>
+    <string name="loosers">Perdants</string>
+    <string name="winner_is">Equipe gagnante:</string>
+
+
+
+</resources>

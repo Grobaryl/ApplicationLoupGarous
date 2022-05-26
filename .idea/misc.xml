@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/benj2/AndroidStudioProjects/LoupGarous/app/src/main/res/drawable/carte_voyante.xml" value="0.21197916666666666" />
+        <entry key="..\:/Users/benj2/AndroidStudioProjects/LoupGarous/app/src/main/res/layout/activity_death_turn.xml" value="0.1" />
+        <entry key="..\:/Users/benj2/AndroidStudioProjects/LoupGarous/app/src/main/res/layout/activity_debrief.xml" value="0.1" />
+        <entry key="..\:/Users/benj2/AndroidStudioProjects/LoupGarous/app/src/main/res/layout/activity_main_menu.xml" value="0.2" />
+        <entry key="..\:/Users/benj2/AndroidStudioProjects/LoupGarous/app/src/main/res/layout/activity_main_menu2.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/benj2/AndroidStudioProjects/LoupGarous/app/src/main/res/layout/activity_mort.xml" value="0.128" />
+        <entry key="..\:/Users/benj2/AndroidStudioProjects/LoupGarous/app/src/main/res/layout/activity_night.xml" value="0.11614583333333334" />
+        <entry key="..\:/Users/benj2/AndroidStudioProjects/LoupGarous/app/src/main/res/layout/activity_player_name_selection.xml" value="0.264" />
+        <entry key="..\:/Users/benj2/AndroidStudioProjects/LoupGarous/app/src/main/res/layout/activity_result.xml" value="0.2" />
+        <entry key="..\:/Users/benj2/AndroidStudioProjects/LoupGarous/app/src/main/res/layout/activity_role_result.xml" value="0.2" />
+        <entry key="..\:/Users/benj2/AndroidStudioProjects/LoupGarous/app/src/main/res/layout/activity_vote.xml" value="0.176" />
+        <entry key="..\:/Users/benj2/AndroidStudioProjects/LoupGarous/app/src/main/res/layout/fragment_player_select.xml" value="0.146875" />
+        <entry key="..\:/Users/benj2/AndroidStudioProjects/LoupGarous/app/src/main/res/layout/fragment_side_card_selection.xml" value="0.152" />
+        <entry key="..\:/Users/benj2/AndroidStudioProjects/LoupGarous/app/src/main/res/layout/fragment_text.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
